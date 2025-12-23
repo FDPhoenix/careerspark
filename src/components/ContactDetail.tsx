@@ -17,7 +17,7 @@ function ContactDetail() {
             </div>
 
             <div>
-              <p className='text-2xs'>We’re here to help. Check out our FAQs, send us an email or call us at 2 600 7777 9999</p>
+              <p className='text-2xs'>We’re here to help. Check out our FAQs, send us an email or call us at 0987 654 321</p>
             </div>
           </div>
         </div>

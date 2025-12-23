@@ -1,8 +1,8 @@
 
 function FeaturedJobs() {
   return (
-    <div>
-        
+    <div className="w-full flex justify-center">
+        FeaturedJobs
     </div>
   )
 }
